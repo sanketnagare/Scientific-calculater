@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Scientific-calculater/static/css/main.6b661aaf.css",
+    "main.js": "/Scientific-calculater/static/js/main.10acbdb5.js",
+    "index.html": "/Scientific-calculater/index.html",
+    "main.6b661aaf.css.map": "/Scientific-calculater/static/css/main.6b661aaf.css.map",
+    "main.10acbdb5.js.map": "/Scientific-calculater/static/js/main.10acbdb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b661aaf.css",
+    "static/js/main.10acbdb5.js"
+  ]
+}
